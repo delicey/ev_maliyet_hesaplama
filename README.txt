@@ -1,0 +1,1 @@
+Ankara'nın bir bölgesinde ev maliyeti hesaplaması için yapılan basit bir uygulamadır.
